@@ -8,6 +8,19 @@ namespace ConcesionarioV1_Pablo
 {
     public class vehiculo
     {
-        
+        //CONSTANTES
+
+
+        //MIEMBROS PRIVADOS
+
+
+
+        //CONSTRUCTORES
+
+
+        //MÉTODOS PÚBLICOS
+
+
+        //MÉTODOS PRIVADOS
     }
 }
